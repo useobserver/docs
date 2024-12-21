@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Observer",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "https://use.observer/logo@2x.png",
+    "light": "https://use.observer/logo@2x.png"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "https://use.observer/logo.png",
   "colors": {
     "primary": "#0D9373",
     "light": "#07C983",
